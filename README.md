@@ -1,0 +1,2 @@
+# myregistry
+for docker
